@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am Embedded software engineer and mobile applications developer using Flutter since 2021.<br>I've worked on several IOT projects , either using embedded systems only or using flutter only , or using embedded systems with flutter.<br>I am a hardworking and ambitious individual with a great passion for technology, especially programming.
+I am an Embedded software engineer and mobile applications developer using Flutter since 2021.
+I've worked on several IOT projects , either using embedded systems only or using flutter only , or using embedded systems with flutter.
+I am a hardworker and ambitious person with a great passion for technology, especially programming.
 
 
 ## 🌐 Socials:
