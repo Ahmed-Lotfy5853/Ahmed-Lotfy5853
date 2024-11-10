@@ -1,7 +1,9 @@
 # 💫 About Me:
-I am a junior flutter developer  since 2021.
-I've worked on several e-commerce , healthcare , social , educational , lifestyle and IOT projects .
-I am a hardworker and ambitious person with a great passion for technology, especially programming.
+👨‍💻 Flutter Developer | BSc in Computer Engineering  
+💡 Building responsive mobile apps for healthcare, education, and e-commerce  
+🚀 Skilled in Firebase, RESTful APIs, and payment integrations  
+🏆 Award-winning for innovative environmental solutions  
+🔍 Focused on delivering high-quality, performance-driven applications  
 
 
 ## 🌐 Socials:
